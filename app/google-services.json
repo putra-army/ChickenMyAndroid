@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "302532130992",
+    "firebase_url": "https://chickenmy-e5f9f.firebaseio.com",
+    "project_id": "chickenmy-e5f9f",
+    "storage_bucket": "chickenmy-e5f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302532130992:android:297ba4674efce5fac36375",
+        "android_client_info": {
+          "package_name": "com.example.chickenmy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302532130992-pqdulhmics391solii2hc5l5a9g4ekuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chickenmy",
+            "certificate_hash": "7ffc43ab6c0fe2d8137efeda7a8cb63ed3995af1"
+          }
+        },
+        {
+          "client_id": "302532130992-utq7jfd9501v90dojut3gl1s99f9pgo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB72HlrWOMuZugvx3qncQjE2RCxGvS4me0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302532130992-utq7jfd9501v90dojut3gl1s99f9pgo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

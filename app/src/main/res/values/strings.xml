@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChickenMy</string>
+    <string name="title_home">Kandang</string>
+    <string name="title_dashboard">Grafik</string>
+    <string name="title_settings">Pengaturan</string>
+
+    <string name="kon_kandang">Kondisi Kandang</string>
+    <string name="kon_grid">Kondisi Kandang per Grid</string>
+</resources>
