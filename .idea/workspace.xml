@@ -21,7 +21,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="text" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c388e584-0065-47e2-8f05-930f5f1e46bf" name="Default Changelist" comment="" />
+    <list default="true" id="c388e584-0065-47e2-8f05-930f5f1e46bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chickenmy/Fragments/home/HomeFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chickenmy/Fragments/home/HomeFragment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,9 +194,9 @@
     </state>
     <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738/1366.0.1366.768@0.30.1366.738" timestamp="1595420274625" />
     <state x="376" y="226" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1595658144791" />
-    <state x="488" y="319" width="380" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595659250007">
+    <state x="488" y="319" width="380" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595662756533">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state x="488" y="319" width="380" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1366.738@0.30.1366.738" timestamp="1595659250007" />
+    <state x="488" y="319" width="380" height="156" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1366.738@0.30.1366.738" timestamp="1595662756533" />
   </component>
 </project>
